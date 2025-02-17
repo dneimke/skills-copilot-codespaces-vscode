@@ -1,4 +1,4 @@
-// create web server
+// Create web server
 // run this file by node comments.js
 // open browser and go to http://localhost:3000
 var http = require('http');
